@@ -1,2 +1,2 @@
-# vdg-god
-Vdg
+# VdG - crash zap
+Somente um crash no zap
